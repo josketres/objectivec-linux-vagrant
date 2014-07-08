@@ -1,5 +1,6 @@
-Objective-C/GNUStep workspace in linux via vagrant (for learning purposes) 
+objectivec-linux-vagrant
 ============
+Objective-C/GNUStep workspace in linux via vagrant (for learning purposes).
 
 Use this workspace to learn the basics of Objective-C without having a Mac.
 
